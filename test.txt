@@ -1,0 +1,7 @@
+draw the supervsied learning paradigm
+
+write the formal definition of supervised learning
+
+write the code to turn the corpus of ['','',''] into a term-frequency vector
+
+write the code to turn the same corpus into tfidf vector
